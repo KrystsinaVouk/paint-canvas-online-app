@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KrystsinaVouk/paint-canvas-online-app/issues"
   },
-  "homepage": "https://github.com/KrystsinaVouk/paint-canvas-online-app#readme"
+  "homepage": "https://github.com/KrystsinaVouk/paint-canvas-online-app#readme",
+  "dependencies": {
+    "sass": "^1.50.1"
+  }
 }
